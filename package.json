@@ -1,0 +1,9 @@
+{
+  "name": "flad-static",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-static.mjs",
+    "test": "node scripts/build-static.mjs"
+  }
+}
